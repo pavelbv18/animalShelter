@@ -1,13 +1,13 @@
-package com.pavel.adoptions.animalShelter;
+package com.pavel.adoptions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnimalShelterApplication {
+public class AdoptionsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AnimalShelterApplication.class, args);
+		SpringApplication.run(AdoptionsApplication.class, args);
 	}
 
 }
